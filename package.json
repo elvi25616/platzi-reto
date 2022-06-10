@@ -23,7 +23,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "dev": "nodemon src/index.js",
-    "start": "node src/index.js"
+    "start": "node src/artifacts/index.js"
   },
   "eslintConfig": {
     "extends": [
