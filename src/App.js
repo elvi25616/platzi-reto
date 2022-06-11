@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import { ethers } from "ethers";
+import React from "react";
 import Manager from "./artifacts/contracts/Manager.sol/Manager.json";
 import "./App.css";
 
